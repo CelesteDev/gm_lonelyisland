@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7937"
-	"mapversion" "699"
+	"mapversion" "703"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,12 +20,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "699"
+	"mapversion" "703"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_tf2_04"
+	"skyname" "sky_well_01"
 	solid
 	{
 		"id" "166778"
@@ -780,10 +780,10 @@ world
 			"id" "768"
 			"plane" "(-16320 16320 -992) (16320 16320 -992) (16320 -16320 -992)"
 			"material" "EGYPT/SKY_SAND_WAVES_01"
-			"uaxis" "[1 0 0 -105.993] 0.249023"
-			"vaxis" "[0 -1 0 -58.0747] 0.249023"
+			"uaxis" "[1 0 0 -106] 0.249023"
+			"vaxis" "[0 -1 0 -58] 0.249023"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -47849,7 +47849,7 @@ entity
 		{
 			"id" "6948"
 			"plane" "(-16256 -16256 -720) (-16256 -11776 -720) (16256 -11776 -720)"
-			"material" "WATER/WATER_ISLAND_DX80"
+			"material" "WATER/WATER_ISLAND_CHEAP"
 			"uaxis" "[1 0 0 0] 28.2222"
 			"vaxis" "[0 -1 0 17.0481] 0.728219"
 			"rotation" "0"
@@ -47937,7 +47937,7 @@ entity
 		{
 			"id" "6960"
 			"plane" "(-16256 11776 -720) (-16256 16256 -720) (16256 16256 -720)"
-			"material" "WATER/WATER_ISLAND_DX80"
+			"material" "WATER/WATER_ISLAND_CHEAP"
 			"uaxis" "[1 0 0 0] 28.2222"
 			"vaxis" "[0 -1 0 17.0481] 0.728219"
 			"rotation" "0"
@@ -48025,7 +48025,7 @@ entity
 		{
 			"id" "6972"
 			"plane" "(-16256 -11776 -720) (-16256 11776 -720) (-8192 11776 -720)"
-			"material" "WATER/WATER_ISLAND_DX80"
+			"material" "WATER/WATER_ISLAND_CHEAP"
 			"uaxis" "[1 0 0 117.058] 7"
 			"vaxis" "[0 -1 0 -109.121] 3.82835"
 			"rotation" "0"
@@ -48113,7 +48113,7 @@ entity
 		{
 			"id" "6984"
 			"plane" "(10752 -11776 -720) (10752 11776 -720) (16256 11776 -720)"
-			"material" "WATER/WATER_ISLAND_DX80"
+			"material" "WATER/WATER_ISLAND_CHEAP"
 			"uaxis" "[1 0 0 -170.207] 4.77777"
 			"vaxis" "[0 -1 0 -109.121] 3.82835"
 			"rotation" "0"

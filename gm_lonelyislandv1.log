@@ -21095,3 +21095,1019 @@ Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
 1264924 patches after subdivision
 2 direct lights
 0...1...2...3...4...5...6...7...8...9...100...1.Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1071 texinfos to 487
+Reduced 16 texdatas to 11 (584 bytes to 404)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+10 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+16499 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16499 patches before subdivision
+1197861 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_well_02rt" not found.
+Can't load skybox file skybox/sky_well_02 to build the default cubemap!
+Can't load skybox file skybox/sky_well_02 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1071 texinfos to 487
+Reduced 16 texdatas to 11 (584 bytes to 404)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 25 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+16499 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16499 patches before subdivision
+1197861 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_well_02rt" not found.
+Can't load skybox file skybox/sky_well_02 to build the default cubemap!
+Can't load skybox file skybox/sky_well_02 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1067 texinfos to 487
+Reduced 16 texdatas to 11 (584 bytes to 404)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+12 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 44 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+16499 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16499 patches before subdivision
+1197861 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149332 bytes)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-298.12, 4562.58, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (153.88, 4622.58, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (695.82, -262.17, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (870.31, -436.77, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5545.54, 4810.59, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5392.40, 4621.83, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-570.77, 10156.80, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-293.59, 9794.78, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (696.16, -3879.79, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (597.16, -3560.18, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6352.49, -4942.78, -385.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6706.71, -5183.48, -385.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10397.90, -5047.42, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10643.10, -5193.02, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7366.32, -8865.12, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-8471.92, -8393.62, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11829.10, -6224.51, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11699.60, -5916.10, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11469.50, -5932.26, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11617.80, -6119.92, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11352.40, -7271.22, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11112.30, -7284.28, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10826.60, 4958.81, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11083.70, 4995.33, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7091.39, -10339.00, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6669.36, -10266.10, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (781.92, -10508.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (779.92, -11710.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3872.19, -13134.80, -512.01)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4128.19, -12878.80, -512.01)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (654.14, -11940.90, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1785.51, -12710.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13708.70, -401.84, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13452.70, -913.84, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13964.20, 8331.58, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13806.20, 8627.58, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13583.00, 8602.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13747.00, 8428.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13583.00, 7258.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13345.00, 7224.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13709.10, 1932.78, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13965.10, 588.78, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11423.50, -8650.02, -528.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11577.50, -8890.02, -528.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8381.56, 14162.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8207.56, 14326.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7037.56, 14162.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7003.56, 13924.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7883.91, 14471.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8179.92, 14315.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8475.63, 10512.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8731.63, 9168.54, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2774.90, 12568.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2667.09, 12800.20, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3074.56, 12414.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2778.56, 12570.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3747.57, 13394.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3948.29, 13581.20, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1536.01, 14363.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1650.81, 14153.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2814.23, 13948.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2920.11, 14163.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1982.94, 14471.80, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1686.94, 14313.80, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11689.30, -2205.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11089.30, -1781.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4930.60, 5607.57, -464.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5186.60, 4263.57, -464.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2865.54, 12413.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2569.54, 12571.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-3919.10, 13005.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-3804.30, 12795.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2640.88, 12590.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2535.00, 12805.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5769.65, 13395.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5595.65, 13559.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4425.65, 13395.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4391.65, 13157.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7801.03, 13769.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7627.03, 13605.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6457.03, 13769.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6423.03, 14007.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5467.26, 13770.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5763.26, 13612.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5191.59, 14390.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5243.94, 14147.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7497.67, 13395.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7793.67, 13551.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5900.19, 13778.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6074.19, 13614.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7244.19, 13778.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7278.19, 14016.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4739.55, 13394.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4913.55, 13230.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6083.55, 13394.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6117.55, 13632.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2712.56, 13980.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2827.37, 13770.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3990.78, 13565.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4096.67, 13780.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12547.80, 7780.79, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12393.80, 8020.79, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12801.70, 7780.64, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12955.70, 8020.64, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-13038.90, 2647.17, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12802.80, 2739.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12278.70, 1512.29, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12042.00, 1605.22, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4892.60, 12345.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6708.42, 960.08, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6476.42, 600.08, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11180.10, -11937.50, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10048.80, -12706.90, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5942.25, 9604.68, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5944.47, 3150.08, -240.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6191.11, 3180.59, -240.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5607.18, 8509.23, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5844.03, 8419.49, -302.45)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (5439.81, 4578.85, 0.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (5497.36, 4521.56, 0.00)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-11652.00, -6033.95, -384.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (813.97, -11740.10, -512.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (13772.10, 8510.98, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (2948.27, 14163.00, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-2612.69, 12581.50, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-4505.19, 13394.60, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-5651.73, 13577.80, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-7702.77, 13581.30, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (6076.47, 13616.50, -319.45)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (4829.22, 13201.00, -319.45)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (4012.48, 13559.10, -317.45)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (8233.87, 14162.20, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (7075.75, 13778.70, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-3791.22, 12796.90, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-6199.56, 2994.75, -240.05)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-5925.16, 9548.98, -320.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1614 texinfos to 743
+Reduced 3 texdatas to 2 (93 bytes to 72)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 485, actual size 405
+22 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1658 portalclusters
+4234 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (149332 bytes)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-298.12, 4562.58, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (153.88, 4622.58, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (695.82, -262.17, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (870.31, -436.77, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5545.54, 4810.59, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5392.40, 4621.83, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-570.77, 10156.80, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-293.59, 9794.78, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (696.16, -3879.79, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (597.16, -3560.18, 0.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6352.49, -4942.78, -385.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6706.71, -5183.48, -385.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10397.90, -5047.42, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10643.10, -5193.02, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7366.32, -8865.12, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-8471.92, -8393.62, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11829.10, -6224.51, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11699.60, -5916.10, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11469.50, -5932.26, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11617.80, -6119.92, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11352.40, -7271.22, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11112.30, -7284.28, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10826.60, 4958.81, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11083.70, 4995.33, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7091.39, -10339.00, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6669.36, -10266.10, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (781.92, -10508.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (779.92, -11710.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3872.19, -13134.80, -512.01)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4128.19, -12878.80, -512.01)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (654.14, -11940.90, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1785.51, -12710.20, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13708.70, -401.84, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13452.70, -913.84, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13964.20, 8331.58, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13806.20, 8627.58, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13583.00, 8602.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13747.00, 8428.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13583.00, 7258.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13345.00, 7224.64, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13709.10, 1932.78, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (13965.10, 588.78, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11423.50, -8650.02, -528.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11577.50, -8890.02, -528.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8381.56, 14162.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8207.56, 14326.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7037.56, 14162.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7003.56, 13924.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7883.91, 14471.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8179.92, 14315.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8475.63, 10512.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (8731.63, 9168.54, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2774.90, 12568.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2667.09, 12800.20, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3074.56, 12414.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2778.56, 12570.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3747.57, 13394.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3948.29, 13581.20, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1536.01, 14363.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1650.81, 14153.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2814.23, 13948.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2920.11, 14163.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1982.94, 14471.80, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (1686.94, 14313.80, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11689.30, -2205.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-11089.30, -1781.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4930.60, 5607.57, -464.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5186.60, 4263.57, -464.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2865.54, 12413.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2569.54, 12571.70, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-3919.10, 13005.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-3804.30, 12795.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2640.88, 12590.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-2535.00, 12805.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5769.65, 13395.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5595.65, 13559.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4425.65, 13395.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4391.65, 13157.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7801.03, 13769.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7627.03, 13605.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6457.03, 13769.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6423.03, 14007.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5467.26, 13770.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5763.26, 13612.10, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5191.59, 14390.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5243.94, 14147.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7497.67, 13395.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-7793.67, 13551.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (5900.19, 13778.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6074.19, 13614.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7244.19, 13778.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (7278.19, 14016.50, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4739.55, 13394.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4913.55, 13230.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6083.55, 13394.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (6117.55, 13632.40, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2712.56, 13980.30, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (2827.37, 13770.60, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (3990.78, 13565.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (4096.67, 13780.90, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12547.80, 7780.79, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12393.80, 8020.79, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12801.70, 7780.64, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12955.70, 8020.64, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-13038.90, 2647.17, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12802.80, 2739.87, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12278.70, 1512.29, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-12042.00, 1605.22, -384.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-4892.60, 12345.00, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6708.42, 960.08, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6476.42, 600.08, -256.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (11180.10, -11937.50, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (10048.80, -12706.90, -512.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5942.25, 9604.68, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5944.47, 3150.08, -240.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-6191.11, 3180.59, -240.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5607.18, 8509.23, -320.00)
+Static prop models/trakpak2/misc/automarker.mdl outside the map (-5844.03, 8419.49, -302.45)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (5439.81, 4578.85, 0.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (5497.36, 4521.56, 0.00)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-11652.00, -6033.95, -384.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (813.97, -11740.10, -512.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (13772.10, 8510.98, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (2948.27, 14163.00, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-2612.69, 12581.50, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-4505.19, 13394.60, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-5651.73, 13577.80, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (-7702.77, 13581.30, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (6076.47, 13616.50, -319.45)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (4829.22, 13201.00, -319.45)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (4012.48, 13559.10, -317.45)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (8233.87, 14162.20, -320.00)
+Static prop models/trakpak2/straights/s0256.mdl outside the map (7075.75, 13778.70, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-3791.22, 12796.90, -320.00)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-6199.56, 2994.75, -240.05)
+Static prop models/trakpak2/straights/s0128.mdl outside the map (-5925.16, 9548.98, -320.00)
+Placing detail props : 0...1...2...3...4...5....6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1606 texinfos to 740
+Reduced 3 texdatas to 2 (93 bytes to 72)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 485, actual size 405
+39 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1658 portalclusters
+4234 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1071 texinfos to 487
+Reduced 15 texdatas to 10 (561 bytes to 381)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+9 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+17074 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17074 patches before subdivision
+1264924 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1.Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1071 texinfos to 487
+Reduced 15 texdatas to 10 (561 bytes to 381)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+11 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+17074 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17074 patches before subdivision
+1264924 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1.Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+Too many unique verts, max = 65536 (map has too much brush geometry)
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+LoadPortals: couldn't read d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+17074 faces
+28136800 square feet [4051699200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17074 patches before subdivision
+1264924 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1.Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (127933 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1073 texinfos to 487
+Reduced 15 texdatas to 10 (561 bytes to 381)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1127 portalclusters
+2280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1266901
+Average clusters visible: 1124
+Building PAS...
+Average clusters audible: 1127
+visdatasize:326834  compressed from 324576
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 minutes, 31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+9262 faces
+28136842 square feet [4051705344.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+9262 patches before subdivision
+808216 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8..Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (128685 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1077 texinfos to 487
+Reduced 15 texdatas to 10 (561 bytes to 381)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2754, actual size 2138
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+1285 portalclusters
+2690 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1130 visible clusters (0.07%)
+Total clusters visible: 1605139
+Average clusters visible: 1249
+Building PAS...
+Average clusters audible: 1285
+visdatasize:424056  compressed from 431760
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+10 minutes, 39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+8836 faces
+27531584 square feet [3964548096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8836 patches before subdivision
+761622 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 206076251, max 3872
+transfer lists: 1572.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1083403, 629762, 343548)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77324, 40483, 21125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(35392, 13096, 3412)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2884, 995, 289)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1719, 405, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(138, 31, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(94, 14, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.6202 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 204/1024         9792/49152    (19.9%) 
+brushes                305/8192         3660/98304    ( 3.7%) 
+brushsides            2981/65536       23848/524288   ( 4.5%) 
+planes                6648/65536      132960/1310720  (10.1%) 
+vertexes             11184/65536      134208/786432   (17.1%) 
+nodes                 4949/65536      158368/2097152  ( 7.6%) 
+texinfos               487/12288       35064/884736   ( 4.0%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8836/65536      494816/3670016  (13.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1009/65536       56504/3670016  ( 1.5%) 
+leaves                5154/65536      164928/2097152  ( 7.9%) 
+leaffaces            14214/65536       28428/131072   (21.7%) 
+leafbrushes           3901/65536        7802/131072   ( 6.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            41439/512000     165756/2048000  ( 8.1%) 
+edges                21298/256000      85192/1024000  ( 8.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            401/32768        4010/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5103/65536       10206/131072   ( 7.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    76204772/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      424056/16777216 ( 2.5%) 
+entdata               [variable]      230440/393216   (58.6%) 
+LDR ambient table     5154/65536       20616/262144   ( 7.9%) 
+HDR ambient table     5154/65536       20616/262144   ( 7.9%) 
+LDR leaf ambient     20067/65536      561876/1835008  (30.6%) 
+HDR leaf ambient      5154/65536      144312/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35480    ( 0.0%) 
+pakfile               [variable]        2138/0        ( 0.0%) 
+physics               [variable]      128685/4194304  ( 3.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 19741
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 52 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+8836 faces
+27531584 square feet [3964548096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8836 patches before subdivision
+761622 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Out of memory or address space.  Texture quality setting may be too high.
