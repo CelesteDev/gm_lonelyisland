@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7937"
-	"mapversion" "1219"
+	"mapversion" "1220"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "128"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "1219"
+	"mapversion" "1220"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1856,10 +1856,10 @@ world
 		side
 		{
 			"id" "10850"
-			"plane" "(1024 4736 896) (1024 9984 896) (2560 9984 896)"
+			"plane" "(1024 4736 896) (1024 9728 896) (2560 9728 896)"
 			"material" "CP_MOUNTAINLAB/NATURE/BLENDROCKTOGRASS002"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 -1 0 971.487] 0.237805"
 			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
@@ -1867,10 +1867,10 @@ world
 		side
 		{
 			"id" "10851"
-			"plane" "(1024 9984 384) (1024 4736 384) (2560 4736 384)"
+			"plane" "(1024 9728 384) (1024 4736 384) (2560 4736 384)"
 			"material" "CP_MOUNTAINLAB/NATURE/BLENDROCKTOGRASS002"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 -1 0 971.487] 0.237805"
 			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
@@ -1878,9 +1878,9 @@ world
 		side
 		{
 			"id" "10852"
-			"plane" "(1024 4736 384) (1024 9984 384) (1024 9984 896)"
+			"plane" "(1024 4736 384) (1024 9728 384) (1024 9728 896)"
 			"material" "CP_MOUNTAINLAB/NATURE/BLENDROCKTOGRASS002"
-			"uaxis" "[0 1 0 0] 0.25"
+			"uaxis" "[0 1 0 -971.487] 0.237805"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "64"
@@ -1889,9 +1889,9 @@ world
 		side
 		{
 			"id" "10853"
-			"plane" "(2560 9984 384) (2560 4736 384) (2560 4736 896)"
+			"plane" "(2560 9728 384) (2560 4736 384) (2560 4736 896)"
 			"material" "CP_MOUNTAINLAB/NATURE/BLENDROCKTOGRASS002"
-			"uaxis" "[0 1 0 0] 0.25"
+			"uaxis" "[0 1 0 -971.487] 0.237805"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "64"
@@ -1900,7 +1900,7 @@ world
 		side
 		{
 			"id" "10854"
-			"plane" "(1024 9984 384) (2560 9984 384) (2560 9984 896)"
+			"plane" "(1024 9728 384) (2560 9728 384) (2560 9728 896)"
 			"material" "CP_MOUNTAINLAB/NATURE/BLENDROCKTOGRASS002"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4516,7 +4516,7 @@ world
 		side
 		{
 			"id" "11168"
-			"plane" "(0 -256 -16) (2304 -256 -16) (2304 -4096 -16)"
+			"plane" "(0 -4096 -128) (0 -256 -128) (2304 -256 -128)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[1 0 0 0] 0.75"
 			"vaxis" "[0 -1 0 477.867] 0.46875"
@@ -4526,7 +4526,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[0 -4096 -16]"
+				"startposition" "[0 -4096 -128]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -4568,15 +4568,15 @@ world
 				}
 				offset_normals
 				{
-					"row0" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row1" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row2" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row3" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row4" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row5" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row6" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row7" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
-					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
+					"row0" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row1" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row2" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row3" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row4" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row5" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row6" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row7" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
+					"row8" "0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727 0 0 0.872727"
 				}
 				alphas
 				{
@@ -4610,7 +4610,7 @@ world
 		side
 		{
 			"id" "11169"
-			"plane" "(0 -4096 -896) (2304 -4096 -896) (2304 -256 -896)"
+			"plane" "(0 -256 -896) (0 -4096 -896) (2304 -4096 -896)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[1 0 0 0] 0.75"
 			"vaxis" "[0 -1 0 477.867] 0.46875"
@@ -4621,10 +4621,10 @@ world
 		side
 		{
 			"id" "11170"
-			"plane" "(0 -256 -16) (0 -4096 -16) (0 -4096 -896)"
+			"plane" "(0 -4096 -896) (0 -256 -896) (0 -256 -128)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[0 1 0 -477.867] 0.46875"
-			"vaxis" "[0 0 -1 47.7091] 0.982143"
+			"vaxis" "[0 0 -1 -85.3333] 0.857143"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -4632,10 +4632,10 @@ world
 		side
 		{
 			"id" "11171"
-			"plane" "(2304 -256 -896) (2304 -4096 -896) (2304 -4096 -16)"
+			"plane" "(2304 -256 -896) (2304 -4096 -896) (2304 -4096 -128)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[0 1 0 -477.867] 0.46875"
-			"vaxis" "[0 0 -1 47.7091] 0.982143"
+			"vaxis" "[0 0 -1 -85.3333] 0.857143"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -4726,10 +4726,10 @@ world
 		side
 		{
 			"id" "11172"
-			"plane" "(2304 -256 -16) (0 -256 -16) (0 -256 -896)"
+			"plane" "(0 -256 -896) (2304 -256 -896) (2304 -256 -128)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[1 0 0 0] 0.75"
-			"vaxis" "[0 0 -1 47.7091] 0.982143"
+			"vaxis" "[0 0 -1 -85.3333] 0.857143"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -4737,10 +4737,10 @@ world
 		side
 		{
 			"id" "11173"
-			"plane" "(2304 -4096 -896) (0 -4096 -896) (0 -4096 -16)"
+			"plane" "(2304 -4096 -896) (0 -4096 -896) (0 -4096 -128)"
 			"material" "CP_SUNSHINE/NATURE/BLENDROCKTOGRASS001"
 			"uaxis" "[1 0 0 0] 0.75"
-			"vaxis" "[0 0 -1 47.7091] 0.982143"
+			"vaxis" "[0 0 -1 -85.3333] 0.857143"
 			"rotation" "0"
 			"lightmapscale" "32"
 			"smoothing_groups" "0"
@@ -71997,6 +71997,27 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "332530"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_2fort/blue_conveyor001.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-1600 -4544 832"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -13268]"
 	}
 }
 cameras
