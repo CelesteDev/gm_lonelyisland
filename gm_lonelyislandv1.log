@@ -42870,3 +42870,1876 @@ Level flags = 0
 Total triangle count: 20917
 Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
 4 minutes, 16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (222388 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1838 texinfos to 918
+Reduced 47 texdatas to 37 (1769 bytes to 1272)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4200 portalclusters
+11205 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 112530 visible clusters (0.66%)
+Total clusters visible: 16943751
+Average clusters visible: 4034
+Building PAS...
+Average clusters audible: 4200
+visdatasize:4439174  compressed from 4435200
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+9605 faces
+1 degenerate faces
+34425728 square feet [4957304832.00 square inches]
+105 Displacements
+1030939 Square Feet [148455248.00 Square Inches]
+9604 patches before subdivision
+573536 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 140995973, max 2366
+transfer lists: 1075.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1557565, 910229, 507385)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(116626, 67496, 40311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(128878, 53251, 14021)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9098, 3738, 1041)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(12142, 3547, 470)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(812, 237, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1126, 232, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(73, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(103, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.3108 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                542/8192         6504/98304    ( 6.6%) 
+brushsides            4643/65536       37144/524288   ( 7.1%) 
+planes                7738/65536      154760/1310720  (11.8%) 
+vertexes             11240/65536      134880/786432   (17.2%) 
+nodes                 9932/65536      317824/2097152  (15.2%) 
+texinfos               918/12288       66096/884736   ( 7.5%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos              105/0           18480/0        ( 0.0%) 
+disp_verts            8505/0          170100/0        ( 0.0%) 
+disp_tris            13440/0           26880/0        ( 0.0%) 
+disp_lmsamples      544856/0          544856/0        ( 0.0%) 
+faces                 9605/65536      537880/3670016  (14.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2081/65536      116536/3670016  ( 3.2%) 
+leaves               10175/65536      325600/2097152  (15.5%) 
+leaffaces            10166/65536       20332/131072   (15.5%) 
+leafbrushes           6022/65536       12044/131072   ( 9.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            48174/512000     192696/2048000  ( 9.4%) 
+edges                25119/256000     100476/1024000  ( 9.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2244/65536        4488/131072   ( 3.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26460248/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4439174/16777216 (26.5%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table    10175/65536       40700/262144   (15.5%) 
+HDR ambient table    10175/65536       40700/262144   (15.5%) 
+LDR leaf ambient     67548/65536     1891344/1835008  (103.1%) VERY FULL!
+HDR leaf ambient     10175/65536      284900/1835008  (15.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44318    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      222388/4194304  ( 5.3%) 
+physics terrain       [variable]       20589/1048576  ( 2.0%) 
+
+Level flags = 0
+
+Total triangle count: 20647
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+9605 faces
+1 degenerate faces
+34425728 square feet [4957304832.00 square inches]
+105 Displacements
+1030939 Square Feet [148455248.00 Square Inches]
+9604 patches before subdivision
+573536 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 140995973, max 2366
+transfer lists: 1075.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1557565, 910229, 507386)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(116627, 67496, 40311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(128878, 53251, 14021)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9098, 3738, 1041)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(12142, 3547, 470)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(812, 237, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1126, 232, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(73, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(103, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2676 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                542/8192         6504/98304    ( 6.6%) 
+brushsides            4643/65536       37144/524288   ( 7.1%) 
+planes                7738/65536      154760/1310720  (11.8%) 
+vertexes             11240/65536      134880/786432   (17.2%) 
+nodes                 9932/65536      317824/2097152  (15.2%) 
+texinfos               918/12288       66096/884736   ( 7.5%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos              105/0           18480/0        ( 0.0%) 
+disp_verts            8505/0          170100/0        ( 0.0%) 
+disp_tris            13440/0           26880/0        ( 0.0%) 
+disp_lmsamples      544856/0          544856/0        ( 0.0%) 
+faces                 9605/65536      537880/3670016  (14.7%) 
+hdr faces             9605/65536      537880/3670016  (14.7%) 
+origfaces             2081/65536      116536/3670016  ( 3.2%) 
+leaves               10175/65536      325600/2097152  (15.5%) 
+leaffaces            10166/65536       20332/131072   (15.5%) 
+leafbrushes           6022/65536       12044/131072   ( 9.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            48174/512000     192696/2048000  ( 9.4%) 
+edges                25119/256000     100476/1024000  ( 9.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2244/65536        4488/131072   ( 3.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26460248/0        ( 0.0%) 
+HDR lightdata         [variable]    26460248/0        ( 0.0%) 
+visdata               [variable]     4439174/16777216 (26.5%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table    10175/65536       40700/262144   (15.5%) 
+HDR ambient table    10175/65536       40700/262144   (15.5%) 
+LDR leaf ambient     67548/65536     1891344/1835008  (103.1%) VERY FULL!
+HDR leaf ambient     67548/65536     1891344/1835008  (103.1%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44318    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      222388/4194304  ( 5.3%) 
+physics terrain       [variable]       20589/1048576  ( 2.0%) 
+
+Level flags = 0
+
+Total triangle count: 20647
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 48 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (223172 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1852 texinfos to 922
+Reduced 47 texdatas to 37 (1769 bytes to 1272)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4220 portalclusters
+11233 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 116054 visible clusters (0.68%)
+Total clusters visible: 17086079
+Average clusters visible: 4048
+Building PAS...
+Average clusters audible: 4220
+visdatasize:4485527  compressed from 4456320
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9677 faces
+1 degenerate faces
+34542940 square feet [4974183424.00 square inches]
+103 Displacements
+950517 Square Feet [136874480.00 Square Inches]
+9676 patches before subdivision
+576384 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 142611278, max 2377
+transfer lists: 1088.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1559288, 912157, 509169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(116680, 67547, 40360)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(129045, 53351, 14060)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9113, 3744, 1043)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(12159, 3552, 471)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(814, 237, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1128, 232, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(73, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(103, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2688 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                544/8192         6528/98304    ( 6.6%) 
+brushsides            4655/65536       37240/524288   ( 7.1%) 
+planes                7740/65536      154800/1310720  (11.8%) 
+vertexes             11313/65536      135756/786432   (17.3%) 
+nodes                 9986/65536      319552/2097152  (15.2%) 
+texinfos               922/12288       66384/884736   ( 7.5%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos              103/0           18128/0        ( 0.0%) 
+disp_verts            8343/0          166860/0        ( 0.0%) 
+disp_tris            13184/0           26368/0        ( 0.0%) 
+disp_lmsamples      538112/0          538112/0        ( 0.0%) 
+faces                 9677/65536      541912/3670016  (14.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2087/65536      116872/3670016  ( 3.2%) 
+leaves               10229/65536      327328/2097152  (15.6%) 
+leaffaces            10245/65536       20490/131072   (15.6%) 
+leafbrushes           6064/65536       12128/131072   ( 9.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            48504/512000     194016/2048000  ( 9.5%) 
+edges                25287/256000     101148/1024000  ( 9.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            172/32768        1720/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2262/65536        4524/131072   ( 3.5%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26600256/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4485527/16777216 (26.7%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table    10229/65536       40916/262144   (15.6%) 
+HDR ambient table    10229/65536       40916/262144   (15.6%) 
+LDR leaf ambient     67549/65536     1891372/1835008  (103.1%) VERY FULL!
+HDR leaf ambient     10229/65536      286412/1835008  (15.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44304    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      223172/4194304  ( 5.3%) 
+physics terrain       [variable]       20609/1048576  ( 2.0%) 
+
+Level flags = 0
+
+Total triangle count: 20809
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9677 faces
+1 degenerate faces
+34542940 square feet [4974183424.00 square inches]
+103 Displacements
+950517 Square Feet [136874480.00 Square Inches]
+9676 patches before subdivision
+576384 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 142611278, max 2377
+transfer lists: 1088.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1559287, 912156, 509168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(116680, 67547, 40360)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(129045, 53351, 14060)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9113, 3744, 1043)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(12159, 3552, 471)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(814, 237, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1128, 232, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(73, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(103, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2575 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                544/8192         6528/98304    ( 6.6%) 
+brushsides            4655/65536       37240/524288   ( 7.1%) 
+planes                7740/65536      154800/1310720  (11.8%) 
+vertexes             11313/65536      135756/786432   (17.3%) 
+nodes                 9986/65536      319552/2097152  (15.2%) 
+texinfos               922/12288       66384/884736   ( 7.5%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos              103/0           18128/0        ( 0.0%) 
+disp_verts            8343/0          166860/0        ( 0.0%) 
+disp_tris            13184/0           26368/0        ( 0.0%) 
+disp_lmsamples      538112/0          538112/0        ( 0.0%) 
+faces                 9677/65536      541912/3670016  (14.8%) 
+hdr faces             9677/65536      541912/3670016  (14.8%) 
+origfaces             2087/65536      116872/3670016  ( 3.2%) 
+leaves               10229/65536      327328/2097152  (15.6%) 
+leaffaces            10245/65536       20490/131072   (15.6%) 
+leafbrushes           6064/65536       12128/131072   ( 9.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            48504/512000     194016/2048000  ( 9.5%) 
+edges                25287/256000     101148/1024000  ( 9.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            172/32768        1720/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2262/65536        4524/131072   ( 3.5%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26600256/0        ( 0.0%) 
+HDR lightdata         [variable]    26600256/0        ( 0.0%) 
+visdata               [variable]     4485527/16777216 (26.7%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table    10229/65536       40916/262144   (15.6%) 
+HDR ambient table    10229/65536       40916/262144   (15.6%) 
+LDR leaf ambient     67549/65536     1891372/1835008  (103.1%) VERY FULL!
+HDR leaf ambient     67549/65536     1891372/1835008  (103.1%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44304    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      223172/4194304  ( 5.3%) 
+physics terrain       [variable]       20609/1048576  ( 2.0%) 
+
+Level flags = 0
+
+Total triangle count: 20809
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (220780 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1881 texinfos to 937
+Reduced 48 texdatas to 38 (1789 bytes to 1292)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4116 portalclusters
+11107 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 98382 visible clusters (0.60%)
+Total clusters visible: 16443525
+Average clusters visible: 3995
+Building PAS...
+Average clusters audible: 4116
+visdatasize:4267477  compressed from 4280640
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9285 faces
+1 degenerate faces
+33322222 square feet [4798400000.00 square inches]
+133 Displacements
+1845748 Square Feet [265787824.00 Square Inches]
+9284 patches before subdivision
+521928 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 128202248, max 2273
+transfer lists: 978.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1501777, 873033, 476520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(112433, 65350, 38691)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126506, 52047, 13613)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8899, 3673, 1022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11868, 3454, 456)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(792, 232, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1095, 225, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 14, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2901 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                537/8192         6444/98304    ( 6.6%) 
+brushsides            4614/65536       36912/524288   ( 7.0%) 
+planes                7754/65536      155080/1310720  (11.8%) 
+vertexes             10880/65536      130560/786432   (16.6%) 
+nodes                 9706/65536      310592/2097152  (14.8%) 
+texinfos               937/12288       67464/884736   ( 7.6%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              133/0           23408/0        ( 0.0%) 
+disp_verts           10773/0          215460/0        ( 0.0%) 
+disp_tris            17024/0           34048/0        ( 0.0%) 
+disp_lmsamples      858680/0          858680/0        ( 0.0%) 
+faces                 9285/65536      519960/3670016  (14.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2097/65536      117432/3670016  ( 3.2%) 
+leaves                9949/65536      318368/2097152  (15.2%) 
+leaffaces             9764/65536       19528/131072   (14.9%) 
+leafbrushes           5876/65536       11752/131072   ( 9.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46834/512000     187336/2048000  ( 9.1%) 
+edges                24468/256000      97872/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            134/32768        1340/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1770/65536        3540/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    25260120/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4267477/16777216 (25.4%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9949/65536       39796/262144   (15.2%) 
+HDR ambient table     9949/65536       39796/262144   (15.2%) 
+LDR leaf ambient     66034/65536     1848952/1835008  (100.8%) VERY FULL!
+HDR leaf ambient      9949/65536      278572/1835008  (15.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44288    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      220780/4194304  ( 5.3%) 
+physics terrain       [variable]       23501/1048576  ( 2.2%) 
+
+Level flags = 0
+
+Total triangle count: 19883
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9285 faces
+1 degenerate faces
+33322222 square feet [4798400000.00 square inches]
+133 Displacements
+1845748 Square Feet [265787824.00 Square Inches]
+9284 patches before subdivision
+521928 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 128202248, max 2273
+transfer lists: 978.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1501778, 873033, 476520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(112433, 65350, 38691)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126506, 52047, 13613)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8899, 3673, 1022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11868, 3454, 456)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(792, 232, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1095, 225, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 14, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.3298 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                537/8192         6444/98304    ( 6.6%) 
+brushsides            4614/65536       36912/524288   ( 7.0%) 
+planes                7754/65536      155080/1310720  (11.8%) 
+vertexes             10880/65536      130560/786432   (16.6%) 
+nodes                 9706/65536      310592/2097152  (14.8%) 
+texinfos               937/12288       67464/884736   ( 7.6%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              133/0           23408/0        ( 0.0%) 
+disp_verts           10773/0          215460/0        ( 0.0%) 
+disp_tris            17024/0           34048/0        ( 0.0%) 
+disp_lmsamples      858680/0          858680/0        ( 0.0%) 
+faces                 9285/65536      519960/3670016  (14.2%) 
+hdr faces             9285/65536      519960/3670016  (14.2%) 
+origfaces             2097/65536      117432/3670016  ( 3.2%) 
+leaves                9949/65536      318368/2097152  (15.2%) 
+leaffaces             9764/65536       19528/131072   (14.9%) 
+leafbrushes           5876/65536       11752/131072   ( 9.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46834/512000     187336/2048000  ( 9.1%) 
+edges                24468/256000      97872/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            134/32768        1340/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1770/65536        3540/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    25260120/0        ( 0.0%) 
+HDR lightdata         [variable]    25260120/0        ( 0.0%) 
+visdata               [variable]     4267477/16777216 (25.4%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9949/65536       39796/262144   (15.2%) 
+HDR ambient table     9949/65536       39796/262144   (15.2%) 
+LDR leaf ambient     66034/65536     1848952/1835008  (100.8%) VERY FULL!
+HDR leaf ambient     66034/65536     1848952/1835008  (100.8%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44288    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      220780/4194304  ( 5.3%) 
+physics terrain       [variable]       23501/1048576  ( 2.2%) 
+
+Level flags = 0
+
+Total triangle count: 19883
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (221676 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1893 texinfos to 943
+Reduced 48 texdatas to 38 (1789 bytes to 1292)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+7 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4136 portalclusters
+11166 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 98505 visible clusters (0.59%)
+Total clusters visible: 16606323
+Average clusters visible: 4015
+Building PAS...
+Average clusters audible: 4136
+visdatasize:4304699  compressed from 4301440
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9323 faces
+1 degenerate faces
+33366364 square feet [4804756480.00 square inches]
+133 Displacements
+1845796 Square Feet [265794752.00 Square Inches]
+9322 patches before subdivision
+524206 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 128793945, max 2277
+transfer lists: 982.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1501266, 872264, 476229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(112392, 65368, 38721)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126296, 51931, 13577)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8894, 3673, 1023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11846, 3446, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(792, 232, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1093, 225, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 14, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2426 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                539/8192         6468/98304    ( 6.6%) 
+brushsides            4626/65536       37008/524288   ( 7.1%) 
+planes                7750/65536      155000/1310720  (11.8%) 
+vertexes             10927/65536      131124/786432   (16.7%) 
+nodes                 9739/65536      311648/2097152  (14.9%) 
+texinfos               943/12288       67896/884736   ( 7.7%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              133/0           23408/0        ( 0.0%) 
+disp_verts           10773/0          215460/0        ( 0.0%) 
+disp_tris            17024/0           34048/0        ( 0.0%) 
+disp_lmsamples      858680/0          858680/0        ( 0.0%) 
+faces                 9323/65536      522088/3670016  (14.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2107/65536      117992/3670016  ( 3.2%) 
+leaves                9982/65536      319424/2097152  (15.2%) 
+leaffaces             9810/65536       19620/131072   (15.0%) 
+leafbrushes           5889/65536       11778/131072   ( 9.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47063/512000     188252/2048000  ( 9.2%) 
+edges                24588/256000      98352/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            139/32768        1390/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1833/65536        3666/131072   ( 2.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    25398216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4304699/16777216 (25.7%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9982/65536       39928/262144   (15.2%) 
+HDR ambient table     9982/65536       39928/262144   (15.2%) 
+LDR leaf ambient     66871/65536     1872388/1835008  (102.0%) VERY FULL!
+HDR leaf ambient      9982/65536      279496/1835008  (15.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44286    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      221676/4194304  ( 5.3%) 
+physics terrain       [variable]       23907/1048576  ( 2.3%) 
+
+Level flags = 0
+
+Total triangle count: 19996
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 56 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9323 faces
+1 degenerate faces
+33366364 square feet [4804756480.00 square inches]
+133 Displacements
+1845796 Square Feet [265794752.00 Square Inches]
+9322 patches before subdivision
+524206 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 128793945, max 2277
+transfer lists: 982.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1501266, 872264, 476229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(112392, 65368, 38721)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126296, 51931, 13577)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8894, 3673, 1023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11846, 3446, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(792, 232, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1093, 225, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 14, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2872 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                539/8192         6468/98304    ( 6.6%) 
+brushsides            4626/65536       37008/524288   ( 7.1%) 
+planes                7750/65536      155000/1310720  (11.8%) 
+vertexes             10927/65536      131124/786432   (16.7%) 
+nodes                 9739/65536      311648/2097152  (14.9%) 
+texinfos               943/12288       67896/884736   ( 7.7%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              133/0           23408/0        ( 0.0%) 
+disp_verts           10773/0          215460/0        ( 0.0%) 
+disp_tris            17024/0           34048/0        ( 0.0%) 
+disp_lmsamples      858680/0          858680/0        ( 0.0%) 
+faces                 9323/65536      522088/3670016  (14.2%) 
+hdr faces             9323/65536      522088/3670016  (14.2%) 
+origfaces             2107/65536      117992/3670016  ( 3.2%) 
+leaves                9982/65536      319424/2097152  (15.2%) 
+leaffaces             9810/65536       19620/131072   (15.0%) 
+leafbrushes           5889/65536       11778/131072   ( 9.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47063/512000     188252/2048000  ( 9.2%) 
+edges                24588/256000      98352/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            139/32768        1390/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1833/65536        3666/131072   ( 2.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    25398216/0        ( 0.0%) 
+HDR lightdata         [variable]    25398216/0        ( 0.0%) 
+visdata               [variable]     4304699/16777216 (25.7%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9982/65536       39928/262144   (15.2%) 
+HDR ambient table     9982/65536       39928/262144   (15.2%) 
+LDR leaf ambient     66871/65536     1872388/1835008  (102.0%) VERY FULL!
+HDR leaf ambient     66871/65536     1872388/1835008  (102.0%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44286    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      221676/4194304  ( 5.3%) 
+physics terrain       [variable]       23907/1048576  ( 2.3%) 
+
+Level flags = 0
+
+Total triangle count: 19996
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 49 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-731.62 -2110.68 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (100531 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 872 texinfos to 469
+Reduced 36 texdatas to 29 (1305 bytes to 984)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 5069, actual size 3917
+9 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+LoadPortals: couldn't read d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+15315 faces
+1 degenerate faces
+35349944 square feet [5090392064.00 square inches]
+38 Displacements
+418603 Square Feet [60278916.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5566 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  95/1024         4560/49152    ( 9.3%) 
+brushes                248/8192         2976/98304    ( 3.0%) 
+brushsides            2008/65536       16064/524288   ( 3.1%) 
+planes                3410/65536       68200/1310720  ( 5.2%) 
+vertexes             16362/65536      196344/786432   (25.0%) 
+nodes                 8046/65536      257472/2097152  (12.3%) 
+texinfos               469/12288       33768/884736   ( 3.8%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               38/0            6688/0        ( 0.0%) 
+disp_verts            3078/0           61560/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples      257224/0          257224/0        ( 0.0%) 
+faces                15315/65536      857640/3670016  (23.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1001/65536       56056/3670016  ( 1.5%) 
+leaves                8142/65536      260544/2097152  (12.4%) 
+leaffaces            15755/65536       31510/131072   (24.0%) 
+leafbrushes           3343/65536        6686/131072   ( 5.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            66480/512000     265920/2048000  (13.0%) 
+edges                33678/256000     134712/1024000  (13.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1197/65536        2394/131072   ( 1.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    30401216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      106518/393216   (27.1%) 
+LDR ambient table     8142/65536       32568/262144   (12.4%) 
+HDR ambient table     8142/65536       32568/262144   (12.4%) 
+LDR leaf ambient     43888/65536     1228864/1835008  (67.0%) 
+HDR leaf ambient      8142/65536      227976/1835008  (12.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/25324    ( 0.0%) 
+pakfile               [variable]        3917/0        ( 0.0%) 
+physics               [variable]      100531/4194304  ( 2.4%) 
+physics terrain       [variable]        4200/1048576  ( 0.4%) 
+
+Level flags = 0
+
+Total triangle count: 31851
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+15315 faces
+1 degenerate faces
+35349944 square feet [5090392064.00 square inches]
+38 Displacements
+418603 Square Feet [60278916.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5694 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  95/1024         4560/49152    ( 9.3%) 
+brushes                248/8192         2976/98304    ( 3.0%) 
+brushsides            2008/65536       16064/524288   ( 3.1%) 
+planes                3410/65536       68200/1310720  ( 5.2%) 
+vertexes             16362/65536      196344/786432   (25.0%) 
+nodes                 8046/65536      257472/2097152  (12.3%) 
+texinfos               469/12288       33768/884736   ( 3.8%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               38/0            6688/0        ( 0.0%) 
+disp_verts            3078/0           61560/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples      257224/0          257224/0        ( 0.0%) 
+faces                15315/65536      857640/3670016  (23.4%) 
+hdr faces            15315/65536      857640/3670016  (23.4%) 
+origfaces             1001/65536       56056/3670016  ( 1.5%) 
+leaves                8142/65536      260544/2097152  (12.4%) 
+leaffaces            15755/65536       31510/131072   (24.0%) 
+leafbrushes           3343/65536        6686/131072   ( 5.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            66480/512000     265920/2048000  (13.0%) 
+edges                33678/256000     134712/1024000  (13.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1197/65536        2394/131072   ( 1.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    30401216/0        ( 0.0%) 
+HDR lightdata         [variable]    30401216/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      106518/393216   (27.1%) 
+LDR ambient table     8142/65536       32568/262144   (12.4%) 
+HDR ambient table     8142/65536       32568/262144   (12.4%) 
+LDR leaf ambient     43888/65536     1228864/1835008  (67.0%) 
+HDR leaf ambient     43888/65536     1228864/1835008  (67.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/25324    ( 0.0%) 
+pakfile               [variable]        3917/0        ( 0.0%) 
+physics               [variable]      100531/4194304  ( 2.4%) 
+physics terrain       [variable]        4200/1048576  ( 0.4%) 
+
+Level flags = 0
+
+Total triangle count: 31851
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+52 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (224380 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1958 texinfos to 987
+Reduced 56 texdatas to 46 (1973 bytes to 1476)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4118 portalclusters
+11373 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 68060 visible clusters (0.41%)
+Total clusters visible: 16678637
+Average clusters visible: 4050
+Building PAS...
+Average clusters audible: 4118
+visdatasize:4274806  compressed from 4282720
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9139 faces
+1 degenerate faces
+33055964 square feet [4760058880.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9138 patches before subdivision
+501740 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126628498, max 2275
+transfer lists: 966.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1496961, 875356, 477126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113649, 66365, 39083)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126676, 52362, 13740)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8953, 3716, 1035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11875, 3471, 458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2749 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                545/8192         6540/98304    ( 6.7%) 
+brushsides            4655/65536       37240/524288   ( 7.1%) 
+planes                7854/65536      157080/1310720  (12.0%) 
+vertexes             10778/65536      129336/786432   (16.4%) 
+nodes                 9608/65536      307456/2097152  (14.7%) 
+texinfos               987/12288       71064/884736   ( 8.0%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9139/65536      511784/3670016  (13.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2180/65536      122080/3670016  ( 3.3%) 
+leaves                9851/65536      315232/2097152  (15.0%) 
+leaffaces             9628/65536       19256/131072   (14.7%) 
+leafbrushes           5742/65536       11484/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46581/512000     186324/2048000  ( 9.1%) 
+edges                24425/256000      97700/1024000  ( 9.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            138/32768        1380/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1773/65536        3546/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24585808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4274806/16777216 (25.5%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9851/65536       39404/262144   (15.0%) 
+HDR ambient table     9851/65536       39404/262144   (15.0%) 
+LDR leaf ambient     66805/65536     1870540/1835008  (101.9%) VERY FULL!
+HDR leaf ambient      9851/65536      275828/1835008  (15.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49060    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      224380/4194304  ( 5.3%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19590
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9139 faces
+1 degenerate faces
+33055964 square feet [4760058880.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9138 patches before subdivision
+501740 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126628498, max 2275
+transfer lists: 966.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1496962, 875357, 477127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113650, 66365, 39083)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126676, 52362, 13740)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8953, 3716, 1035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11875, 3471, 458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2297 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                545/8192         6540/98304    ( 6.7%) 
+brushsides            4655/65536       37240/524288   ( 7.1%) 
+planes                7854/65536      157080/1310720  (12.0%) 
+vertexes             10778/65536      129336/786432   (16.4%) 
+nodes                 9608/65536      307456/2097152  (14.7%) 
+texinfos               987/12288       71064/884736   ( 8.0%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9139/65536      511784/3670016  (13.9%) 
+hdr faces             9139/65536      511784/3670016  (13.9%) 
+origfaces             2180/65536      122080/3670016  ( 3.3%) 
+leaves                9851/65536      315232/2097152  (15.0%) 
+leaffaces             9628/65536       19256/131072   (14.7%) 
+leafbrushes           5742/65536       11484/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46581/512000     186324/2048000  ( 9.1%) 
+edges                24425/256000      97700/1024000  ( 9.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            138/32768        1380/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1773/65536        3546/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24585808/0        ( 0.0%) 
+HDR lightdata         [variable]    24585808/0        ( 0.0%) 
+visdata               [variable]     4274806/16777216 (25.5%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9851/65536       39404/262144   (15.0%) 
+HDR ambient table     9851/65536       39404/262144   (15.0%) 
+LDR leaf ambient     66805/65536     1870540/1835008  (101.9%) VERY FULL!
+HDR leaf ambient     66805/65536     1870540/1835008  (101.9%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49060    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      224380/4194304  ( 5.3%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19590
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 37 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (224756 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1964 texinfos to 993
+Reduced 56 texdatas to 46 (1973 bytes to 1476)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4122 portalclusters
+11385 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 67237 visible clusters (0.40%)
+Total clusters visible: 16711932
+Average clusters visible: 4054
+Building PAS...
+Average clusters audible: 4122
+visdatasize:4287372  compressed from 4286880
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9160 faces
+1 degenerate faces
+33055758 square feet [4760029184.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9159 patches before subdivision
+501787 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126678777, max 2275
+transfer lists: 966.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1497380, 875679, 477390)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113663, 66381, 39099)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126679, 52365, 13742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8953, 3716, 1035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11875, 3471, 458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2546 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                546/8192         6552/98304    ( 6.7%) 
+brushsides            4661/65536       37288/524288   ( 7.1%) 
+planes                7864/65536      157280/1310720  (12.0%) 
+vertexes             10807/65536      129684/786432   (16.5%) 
+nodes                 9618/65536      307776/2097152  (14.7%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9160/65536      512960/3670016  (14.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2189/65536      122584/3670016  ( 3.3%) 
+leaves                9861/65536      315552/2097152  (15.0%) 
+leaffaces             9661/65536       19322/131072   (14.7%) 
+leafbrushes           5750/65536       11500/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46713/512000     186852/2048000  ( 9.1%) 
+edges                24491/256000      97964/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            140/32768        1400/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1800/65536        3600/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24588168/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4287372/16777216 (25.6%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9861/65536       39444/262144   (15.0%) 
+HDR ambient table     9861/65536       39444/262144   (15.0%) 
+LDR leaf ambient     66860/65536     1872080/1835008  (102.0%) VERY FULL!
+HDR leaf ambient      9861/65536      276108/1835008  (15.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49076    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      224756/4194304  ( 5.4%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19644
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 40 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9160 faces
+1 degenerate faces
+33055758 square feet [4760029184.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9159 patches before subdivision
+501787 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126678777, max 2275
+transfer lists: 966.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1497380, 875679, 477389)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113663, 66380, 39099)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126679, 52365, 13742)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8953, 3716, 1035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11875, 3471, 458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2932 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                546/8192         6552/98304    ( 6.7%) 
+brushsides            4661/65536       37288/524288   ( 7.1%) 
+planes                7864/65536      157280/1310720  (12.0%) 
+vertexes             10807/65536      129684/786432   (16.5%) 
+nodes                 9618/65536      307776/2097152  (14.7%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9160/65536      512960/3670016  (14.0%) 
+hdr faces             9160/65536      512960/3670016  (14.0%) 
+origfaces             2189/65536      122584/3670016  ( 3.3%) 
+leaves                9861/65536      315552/2097152  (15.0%) 
+leaffaces             9661/65536       19322/131072   (14.7%) 
+leafbrushes           5750/65536       11500/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46713/512000     186852/2048000  ( 9.1%) 
+edges                24491/256000      97964/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            140/32768        1400/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1800/65536        3600/131072   ( 2.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24588168/0        ( 0.0%) 
+HDR lightdata         [variable]    24588168/0        ( 0.0%) 
+visdata               [variable]     4287372/16777216 (25.6%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9861/65536       39444/262144   (15.0%) 
+HDR ambient table     9861/65536       39444/262144   (15.0%) 
+LDR leaf ambient     66860/65536     1872080/1835008  (102.0%) VERY FULL!
+HDR leaf ambient     66860/65536     1872080/1835008  (102.0%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49076    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      224756/4194304  ( 5.4%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19644
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 45 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.vmf
+Patching WVT material: maps/gm_lonelyislandv1/cp_sunshine/nature/blendrocktograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/cp_mountainlab/nature/groundtograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/winter/blendgraveltograss001_wvt_patch
+Patching WVT material: maps/gm_lonelyislandv1/egypt/sky_sand_waves_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (225444 bytes)
+Error! To use model "models/player/hwm/heavy.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/heavy.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1976 texinfos to 998
+Reduced 56 texdatas to 46 (1973 bytes to 1476)
+Writing D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Creation\Map\Gmod\LonelyIsland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 7716, actual size 5894
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+reading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.prt
+4141 portalclusters
+11476 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 67995 visible clusters (0.40%)
+Total clusters visible: 16860401
+Average clusters visible: 4071
+Building PAS...
+Average clusters audible: 4141
+visdatasize:4323476  compressed from 4306640
+writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp', but we don't own that location. Allowing.
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9195 faces
+1 degenerate faces
+33062678 square feet [4761025536.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9194 patches before subdivision
+502122 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126859575, max 2275
+transfer lists: 967.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1499198, 877189, 478734)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113952, 66618, 39286)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126733, 52404, 13770)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8963, 3723, 1039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11877, 3472, 459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2826 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                548/8192         6576/98304    ( 6.7%) 
+brushsides            4675/65536       37400/524288   ( 7.1%) 
+planes                7878/65536      157560/1310720  (12.0%) 
+vertexes             10853/65536      130236/786432   (16.6%) 
+nodes                 9646/65536      308672/2097152  (14.7%) 
+texinfos               998/12288       71856/884736   ( 8.1%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9195/65536      514920/3670016  (14.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2193/65536      122808/3670016  ( 3.3%) 
+leaves                9889/65536      316448/2097152  (15.1%) 
+leaffaces             9698/65536       19396/131072   (14.8%) 
+leafbrushes           5761/65536       11522/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46883/512000     187532/2048000  ( 9.2%) 
+edges                24584/256000      98336/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            141/32768        1410/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1812/65536        3624/131072   ( 2.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24592972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4323476/16777216 (25.8%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9889/65536       39556/262144   (15.1%) 
+HDR ambient table     9889/65536       39556/262144   (15.1%) 
+LDR leaf ambient     67120/65536     1879360/1835008  (102.4%) VERY FULL!
+HDR leaf ambient      9889/65536      276892/1835008  (15.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49236    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      225444/4194304  ( 5.4%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19728
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+4 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+Patch Sample Radius Clamped!
+9195 faces
+1 degenerate faces
+33062678 square feet [4761025536.00 square inches]
+161 Displacements
+2061137 Square Feet [296803776.00 Square Inches]
+9194 patches before subdivision
+502122 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 126859575, max 2275
+transfer lists: 967.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1499199, 877189, 478734)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(113952, 66618, 39286)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(126733, 52404, 13770)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8963, 3723, 1039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11877, 3472, 459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(793, 234, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1097, 226, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(71, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 15, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2793 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 242/1024        11616/49152    (23.6%) 
+brushes                548/8192         6576/98304    ( 6.7%) 
+brushsides            4675/65536       37400/524288   ( 7.1%) 
+planes                7878/65536      157560/1310720  (12.0%) 
+vertexes             10853/65536      130236/786432   (16.6%) 
+nodes                 9646/65536      308672/2097152  (14.7%) 
+texinfos               998/12288       71856/884736   ( 8.1%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos              161/0           28336/0        ( 0.0%) 
+disp_verts           13041/0          260820/0        ( 0.0%) 
+disp_tris            20608/0           41216/0        ( 0.0%) 
+disp_lmsamples     1027384/0         1027384/0        ( 0.0%) 
+faces                 9195/65536      514920/3670016  (14.0%) 
+hdr faces             9195/65536      514920/3670016  (14.0%) 
+origfaces             2193/65536      122808/3670016  ( 3.3%) 
+leaves                9889/65536      316448/2097152  (15.1%) 
+leaffaces             9698/65536       19396/131072   (14.8%) 
+leafbrushes           5761/65536       11522/131072   ( 8.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46883/512000     187532/2048000  ( 9.2%) 
+edges                24584/256000      98336/1024000  ( 9.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            141/32768        1410/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1812/65536        3624/131072   ( 2.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    24592972/0        ( 0.0%) 
+HDR lightdata         [variable]    24592972/0        ( 0.0%) 
+visdata               [variable]     4323476/16777216 (25.8%) 
+entdata               [variable]      271509/393216   (69.0%) 
+LDR ambient table     9889/65536       39556/262144   (15.1%) 
+HDR ambient table     9889/65536       39556/262144   (15.1%) 
+LDR leaf ambient     67120/65536     1879360/1835008  (102.4%) VERY FULL!
+HDR leaf ambient     67120/65536     1879360/1835008  (102.4%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/49236    ( 0.0%) 
+pakfile               [variable]        5894/0        ( 0.0%) 
+physics               [variable]      225444/4194304  ( 5.4%) 
+physics terrain       [variable]       25685/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 19728
+Writing d:\creation\map\gmod\lonelyisland\gm_lonelyislandv1.bsp
+3 minutes, 53 seconds elapsed
